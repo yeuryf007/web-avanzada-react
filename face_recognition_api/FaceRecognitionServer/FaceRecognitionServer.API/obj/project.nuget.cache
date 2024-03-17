@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8Uu94C6X9SFj9EDSrzUoLrwNeOVa7xeLKRPDVh/5QZMQdCCguaOXtUESAgzPLy2lwrj9dKzzKU9f0+/7tOmrA==",
+  "success": true,
+  "projectFilePath": "/Users/elvinsomon/Documents/PUCMM/Prog Web Avanzada/Proyecto 2/scr/web-avanzada-react/face_recognition_api/FaceRecognitionServer/FaceRecognitionServer.API/FaceRecognitionServer.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/elvinsomon/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/elvinsomon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
