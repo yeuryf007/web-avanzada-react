@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KIkv+SaUBJJyP6JQ+Zd+D3AJvC25D4GXcy7yAVvwEmg=",
+  "Source": "FaceRecognitionServer.API",
+  "BasePath": "_content/FaceRecognitionServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
